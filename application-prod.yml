@@ -1,5 +1,6 @@
-application:
-  name: USERSERVICEPROD
+spring:
+  application:
+    name: USERSERVICEPROD
 
      
 
